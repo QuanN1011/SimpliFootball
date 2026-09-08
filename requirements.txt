@@ -1,0 +1,5 @@
+statsbombpy
+pandas
+sqlalchemy
+psycopg[binary]
+python-dotenv
