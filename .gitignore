@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# FBref saved HTML (large; re-download/save locally)
+data_pipeline/fbref_raw/

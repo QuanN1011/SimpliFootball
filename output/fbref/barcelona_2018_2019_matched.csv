@@ -1,0 +1,23 @@
+Player,Nation,Pos,Age,MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_Gls,Performance_Ast,Performance_G+A,Performance_G-PK,Performance_PK,Performance_PKatt,Performance_CrdY,Performance_CrdR,Per 90 Minutes_Gls,Per 90 Minutes_Ast,Per 90 Minutes_G+A,Per 90 Minutes_G-PK,Per 90 Minutes_G+A-PK,Matches,norm,player_id,player_name
+Ivan Rakitić,hr CRO,MF,30.0,34,29,2643.0,29.4,3.0,5.0,8.0,3.0,0.0,0.0,7.0,1.0,0.1,0.17,0.27,0.1,0.27,Matches,ivan rakitic,5470.0,Ivan Rakitić
+Clément Lenglet,fr FRA,DF,23.0,23,22,1933.0,21.5,1.0,0.0,1.0,1.0,0.0,0.0,8.0,1.0,0.05,0.0,0.05,0.05,0.05,Matches,clement lenglet,6826.0,Clément Lenglet
+Ousmane Dembélé,fr FRA,"FW,MF",21.0,29,20,1661.0,18.5,8.0,5.0,13.0,8.0,0.0,0.0,1.0,0.0,0.43,0.27,0.7,0.43,0.7,Matches,ousmane dembele,5477.0,Ousmane Dembélé
+Thomas Vermaelen,be BEL,DF,32.0,9,7,587.0,6.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,thomas vermaelen,6332.0,Thomas Vermaelen
+Kevin-Prince Boateng,gh GHA,FW,31.0,3,3,239.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,kevin prince boateng,8668.0,Kevin-Prince Boateng
+Gerard Piqué,,,,,,,,,,,,,,,,,,,,,,gerard pique,5213.0,Gerard Piqué Bernabéu
+Jordi Alba,,,,,,,,,,,,,,,,,,,,,,jordi alba,5211.0,Jordi Alba Ramos
+Luis Suárez,,,,,,,,,,,,,,,,,,,,,,luis suarez,5246.0,Luis Alberto Suárez Díaz
+Sergio Busquets,,,,,,,,,,,,,,,,,,,,,,sergio busquets,5203.0,Sergio Busquets i Burgos
+Lionel Messi,,,,,,,,,,,,,,,,,,,,,,lionel messi,5503.0,Lionel Andrés Messi Cuccittini
+Sergi Roberto,,,,,,,,,,,,,,,,,,,,,,sergi roberto,6379.0,Sergi Roberto Carnicer
+Philippe Coutinho,,,,,,,,,,,,,,,,,,,,,,philippe coutinho,3501.0,Philippe Coutinho Correia
+Arturo Vidal,,,,,,,,,,,,,,,,,,,,,,arturo vidal,8206.0,Arturo Erasmo Vidal Pardo
+Nélson Semedo,,,,,,,,,,,,,,,,,,,,,,nelson semedo,6374.0,Nélson Cabral Semedo
+Arthur Melo,,,,,,,,,,,,,,,,,,,,,,arthur melo,11392.0,Arthur Henrique Ramos de Oliveira Melo
+Samuel Umtiti,,,,,,,,,,,,,,,,,,,,,,samuel umtiti,5492.0,Samuel Yves Umtiti
+Carles Aleñá,,,,,,,,,,,,,,,,,,,,,,carles alena,13599.0,Carles Aleña Castillo
+Malcom,,,,,,,,,,,,,,,,,,,,,,malcom,3109.0,Malcom Filipe Silva de Oliveira
+Munir El Haddadi,,,,,,,,,,,,,,,,,,,,,,munir el haddadi,6616.0,Munir El Haddadi Mohamed
+Abel Ruiz,,,,,,,,,,,,,,,,,,,,,,abel ruiz,24976.0,Abel Ruiz Ortega
+Denis Suárez,,,,,,,,,,,,,,,,,,,,,,denis suarez,6609.0,Denis Suárez Fernández
+Carles Pérez,,,,,,,,,,,,,,,,,,,,,,carles perez,25006.0,Carles Pérez Sayol

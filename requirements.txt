@@ -7,3 +7,6 @@ fastapi
 uvicorn
 mplsoccer
 matplotlib
+lxml
+html5lib
+requests
